@@ -45,5 +45,13 @@ Although the tools you will use don’t really matter that much at this point, i
 
 ---
 
-That’s all I have for you today. I believe that if you pay close attention to the points I discussed in this guide and apply them to your proposal it could give you an edge and an opportunity to join that dream research lab. I am sure that I didn’t cover a lot of other topics and questions that you may have. If that is the case, open an issue, and I will address them and continue refining the guide.
+*That’s all I have for you today. I believe that if you pay close attention to the points I discussed in this guide and apply them to your proposal it could give you an edge and an opportunity to join that dream research lab. I am sure that I didn’t cover a lot of other topics and questions that you may have. If that is the case, open an issue, and I will address them and continue refining the guide.*
 
+If you wish to hear more about my advice and tips, including different ML-related guides and topics, connect with me on [Twitter](https://twitter.com/omarsar0) or follow my [blog](https://elvissaravia.substack.com/). 
+
+------
+
+## How you can contribute to this guide?
+- [ ] The guide is basically in draft mode. If you have feedback or grammar corrections please let me know by opening an issue.
+- [ ] Add more components that in your experience helped research proposals stand out
+- [ ] It will be great to add more examples to each section
